@@ -4,6 +4,9 @@ Theremin ultrassônico com Arduino que toca o tema do MarioBros.
 
 ![Image](https://raw.githubusercontent.com/santos-hacker-clube/ultrassonicmario/master/ultrassonicmario_theremin_arduino.png)
 
+Instrumento musical eletrônico que lê a distância entre o sensor ultrassônico e a mão da pessoa,  
+controlando assim a velocidade com que o buzzer toca o tema do MarioBros.
+
 [Github ultrassonicmario](https://github.com/santos-hacker-clube/ultrassonicmario)
 
 # Diagrama
@@ -19,5 +22,9 @@ Theremin ultrassônico com Arduino que toca o tema do MarioBros.
 
 [Link](https://github.com/santos-hacker-clube/ultrassonicmario/blob/master/arduino_ultrassonic_theremin_mario_code.ino) 
 
+# Autores
+Antonio Braga (github.com/piscaleds)
+Ewald Cordeiro (github.com/ewaldsc)
+Filipe Rito (github.com/filipecavalheiro)
 
 
