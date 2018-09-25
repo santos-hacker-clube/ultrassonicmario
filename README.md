@@ -19,7 +19,7 @@ controlando assim a velocidade com que o buzzer toca o tema do MarioBros.
 - jumpers
 
 # Código
-
+Baixar a biblioteca e colocar dentro na pasta /libraries (https://github.com/filipeflop/Ultrasonic) 
 [Link](https://github.com/santos-hacker-clube/ultrassonicmario/blob/master/arduino_ultrassonic_theremin_mario_code.ino) 
 
 # Autores
