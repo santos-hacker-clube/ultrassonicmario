@@ -9,7 +9,7 @@ Esquemático e código [Github ultrassonicmario](https://github.com/santos-hacke
 
 
 # Diagrama
-
+[Esquemático](https://github.com/santos-hacker-clube/ultrassonicmario/blob/master/ultrassonicmario_theremin_arduino.png)
 # Materiais
 
 # Código
