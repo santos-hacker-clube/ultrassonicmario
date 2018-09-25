@@ -23,8 +23,8 @@ controlando assim a velocidade com que o buzzer toca o tema do MarioBros.
 [Link](https://github.com/santos-hacker-clube/ultrassonicmario/blob/master/arduino_ultrassonic_theremin_mario_code.ino) 
 
 # Autores
-Antonio Braga (github.com/piscaleds)
-Ewald Cordeiro (github.com/ewaldsc)
-Filipe Rito (github.com/filipecavalheiro)
+[Antonio Braga] (github.com/piscaleds)
+[Ewald Cordeiro] (github.com/ewaldsc)
+[Filipe Rito] (github.com/filipecavalheiro)
 
 
