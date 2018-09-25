@@ -1,11 +1,17 @@
 ## ultrassonicmario
 
 Theremin ultrassônico com Arduino que toca o tema do MarioBros.
+
+Ultrasonic Theremin with Arduino that plays the MarioBros' theme.
+
 # Diagrama
 ![Image](https://raw.githubusercontent.com/santos-hacker-clube/ultrassonicmario/master/ultrassonicmario_theremin_arduino.png)
 
 Instrumento musical eletrônico que lê a distância entre o sensor ultrassônico e a mão da pessoa,  
 controlando assim a velocidade com que o buzzer toca o tema do MarioBros.
+
+Electronic musical instrument that reads the distance between the ultrasonic sensor and the person's hand,
+thus controlling the speed with which the buzzer plays MarioBros' tune.
 
 # Materiais
 - arduino uno
