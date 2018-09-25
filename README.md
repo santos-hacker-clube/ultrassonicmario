@@ -1,6 +1,6 @@
 ## ultrassonicmario
 
-Theremin ultassônico feito Arduino que toca o tema MarioBros.
+Theremin ultassônico com Arduino que toca o tema MarioBros.
 
 Esquemático e código [Github ultrassonicmario](https://github.com/santos-hacker-clube/ultrassonicmario)
 
@@ -8,22 +8,18 @@ Esquemático e código [Github ultrassonicmario](https://github.com/santos-hacke
 ### Arduino 
 
 
-# Header 1
-## Header 2
-### Header 3
+# Diagrama
+
+# Materiais
+
+# Código
 
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
 
 
-### Support or Contact
+### Contact
 
 
