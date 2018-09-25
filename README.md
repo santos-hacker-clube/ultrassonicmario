@@ -20,7 +20,7 @@ controlando assim a velocidade com que o buzzer toca o tema do MarioBros.
 
 # Biblioteca
 
-Baixar a biblioteca e colocar dentro na pasta /libraries (https://github.com/filipeflop/Ultrasonic)
+Baixar a biblioteca e colocar dentro da pasta /libraries (https://github.com/filipeflop/Ultrasonic)
 
 # Código
 
