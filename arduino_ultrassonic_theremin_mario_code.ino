@@ -8,7 +8,7 @@
  * Programa: UltrassonicMario - Theremin ultrassônico MarioBros
  * 
  * Autores: Antonio Braga (github.com/piscaleds)
- *	        Ewald Cordeiro (github.com/ewaldsc)
+ *	         Ewald Cordeiro (github.com/ewaldsc)
  *          Filipe Rito (github.com/filipecavalheiro)
  *
  * Protótipo - Instrumento musical eletrônico que lê a distância 
